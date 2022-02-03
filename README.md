@@ -10,7 +10,7 @@ const yens = {
     misc: ['Linux', 'Photoshop', 'Illustrator']
   },
     occupation: ['Student at AP', 'Intern at Inuits BV'],
-    hobbies: ['playing video-games', 'learning new technologies']
+    hobbies: ['playing video-games', 'learning new technologies'],
     socials: {
       instagram: 'yensvanhout',
       twitter: '@VanHoutYens',
