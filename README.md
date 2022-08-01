@@ -7,7 +7,6 @@ Web Developer
 I started learning to code 5 years ago and ever since I've been trying to level up my skills.
 
 * 🌍  I'm based in Antwerp, Belgium and Arnhem, The Netherlands
-* 🖥️  See my portfolio at [yensvanhout.com](http://yensvanhout.com/)
 * ✉️  You can contact me at [vanhoutyens@gmail.com](mailto:vanhoutyens@gmail.com)
 * 🧠  I'm learning nodejs.
 * 🤝  I'm open to collaborating on any projects that can help me develop my skills.
